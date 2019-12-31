@@ -4,8 +4,8 @@
       <vue-draggable-resizable v-show="!isShow" :parent="true" class="box-2-drag" @resizing="onResize">
         <p class="text-tip" v-show="!showContent">拖放边缘使其与外层重合</p>
         <div class="text-content" v-show="showContent">
-          <p class="title">再见，<a href="https://wuufeii.github.io/summary/2019">2019</a>！你好，<a href="https://wuufeii.github.io/summary/2020">2020</a></p>
-          <p class="content">在使用 echarts 生成图表时，经常需要做繁琐的数据类型转化、修改复杂的配置项，v-charts 的出现正是为了解决这个痛点。基于 Vue2.0 和 echarts 封装的 v-charts 图表组件，只需要统一提供一种对前后端都友好的数据格式设置简单的配置项，便可轻松生成常见的图表。</p>
+          <p class="title">再见，2019！你好，<a href="https://wuufeii.github.io/summary/2020">2020</a></p>
+          <p class="content">2019，很美好，有爱；2020会更美好</p>
         </div>
       </vue-draggable-resizable>
 
